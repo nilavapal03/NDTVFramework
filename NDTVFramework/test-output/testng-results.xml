@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39398" started-at="2020-07-12T14:48:06Z" finished-at="2020-07-12T14:48:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39398" started-at="2020-07-12T14:48:06Z" finished-at="2020-07-12T14:48:46Z">
+      <class name="com.ndtv.openweathermap.Weather">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ndtv.openweathermap.Weather@2038ae61]" name="setUp" is-config="true" duration-ms="9561" started-at="2020-07-12T14:48:06Z" finished-at="2020-07-12T14:48:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.ndtv.openweathermap.Weather@2038ae61]" name="launchApplication" duration-ms="29797" started-at="2020-07-12T14:48:16Z" finished-at="2020-07-12T14:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+      </class> <!-- com.ndtv.openweathermap.Weather -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
